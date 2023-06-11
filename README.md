@@ -1,14 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Georgi</h1>
+<h3 align="center">I’m currently learning software engineering and I really enjoy it. I'm interested in web Front-end, Back-end and... I love to solve a problems and to explore the SoftWorld.</h3>
 
-# ![icons8-about-24](https://user-images.githubusercontent.com/104040753/199598086-fb96e0fa-3b44-47c3-b769-4dd30fbe0b14.png) About Me:
-I’m currently learning software engineering and I really enjoy it. I'm interested in web Front-end, Back-end and... I love to solve a problems and to explore the SoftWorld.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## ![icons8-my-computer-24](https://user-images.githubusercontent.com/104040753/199597439-ab696702-cee3-4c96-aa83-af6204bac131.png) Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/-HTML-yellowgreen) ![CSS](https://img.shields.io/badge/-CSS-orange) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Georgi%20Jelev&mode=weekly)](https://git.io/streak-stats)
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
