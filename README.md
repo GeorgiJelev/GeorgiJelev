@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgijelev" alt="georgijelev" /></a> </p>
 
-- 🔭 I’m currently working on **Stacks & Queues, Tuples & Sets,Multidimensional Lists)**
+- 🔭 I’m currently working on **Stacks & Queues, Tuples & Sets,Multidimensional Lists**
 
 - 📫 How to reach me **georgijelev34@abv.bg**
 
